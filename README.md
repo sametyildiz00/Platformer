@@ -1,6 +1,6 @@
 # Platformer
 Here is the platformer project I made while I try to learn Unity.
-# Progress:
+# Contents:
 - Character movement, jump and attack;
 - Health;
 - Patrol enemy;
